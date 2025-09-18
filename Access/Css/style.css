@@ -137,12 +137,22 @@
     }
 
     .hero img {
-      width: 350px;
+      width: 330px;
       border-radius: 10px;
+      margin-right: 150px;
     }
+
     .radius {
-      background: grey;
+      background: #ddd;
       padding: 20px;
       border-radius: 40px;
-      width: 25%;
+      width: 30%;
+    }
+
+    .radius li {
+      list-style: none;
+    }
+    .radius input {
+      background: none;
+      border: none;
     }
